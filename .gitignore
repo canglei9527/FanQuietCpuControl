@@ -1,0 +1,11 @@
+*.log
+*.tmp
+*.bak
+bin/
+obj/
+dist/
+out/
+build/
+.pytest_cache/
+coverage/
+vendor/FanQuiet/
